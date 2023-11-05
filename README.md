@@ -1,4 +1,4 @@
-# Image-Classifier
+# Image Classifier Project
 
 My projects for Udacity's AWS AI Programming with Python Nanodegree Program.
 
